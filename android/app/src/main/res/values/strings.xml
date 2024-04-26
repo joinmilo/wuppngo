@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">milo</string>
-    <string name="title_activity_main">milo</string>
+    <string name="app_name">Wuppngo</string>
+    <string name="title_activity_main">Wuppngo</string>
     <string name="package_name">de.joinmilo</string>
-    <string name="custom_url_scheme">de.joinmilo</string>
+    <string name="custom_url_scheme">de.codeschluss.wuppngo</string>
 </resources>
